@@ -1,6 +1,6 @@
 # Site
 title:              xd Adventures
-bio:                'Minimal, one column jekyll theme.'
+bio:                'The random learning adventures of a lone, newb Frontend Developer.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -36,25 +36,25 @@ disqus_shortname:   xd-adventures
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              gyau88@gmail.com
-twitter:            gkyaspera
-facebook:           gky.aspera
+#email:             email
 github:             garyyau
+facebook:           gky.aspera
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           garyyau
+#codepen:           username
 #xing:              username
 instagram:          adastraaxd
+#twitter:           username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              adastraa
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-codepen:            garyyau
 
 # Gems
 gems:
