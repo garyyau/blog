@@ -44,4 +44,4 @@ The article goes into detail about all the different things that we can do to tr
 
 ## Resources
 
-* (How To Retain 90% Of Everything You Learn)[http://www.psychotactics.com/art-retain-learning/]
+* [How To Retain 90% Of Everything You Learn](http://www.psychotactics.com/art-retain-learning/)
