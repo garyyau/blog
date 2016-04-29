@@ -21,26 +21,26 @@ With that being said, let's go!
 
 ### What's the Problem?
 
-Based on the article, there's a thing called *resistance* which essentially tries to find you when you're vulnerable and gets you to not do what you scheduled to do. However, alongside resistance, there are also *exhaustion* and *self-control*.
+Based on the article, there's a thing called **resistance** which essentially tries to find you when you're vulnerable and gets you to not do what you scheduled to do. However, alongside resistance, there are also *exhaustion* and *self-control*.
 
-*Exhaustion* talks about the brain's inability to sustain intense pressure. For example, if you're doing something relaxing, then your brain can sustain that activity for longer than if you were reading an article to constantly be learning something. Generally it's a good idea to take a break every 40 minutes or so, let your brain relax, rather than trying to force yourself to continuously have your brain in an active state. The more you try to push yourself, the more resistance you feel.
+**Exhaustion** talks about the brain's inability to sustain intense pressure. For example, if you're doing something relaxing, then your brain can sustain that activity for longer than if you were reading an article to constantly be learning something. Generally it's a good idea to take a break every 40 minutes or so, let your brain relax, rather than trying to force yourself to continuously have your brain in an active state. The more you try to push yourself, the more resistance you feel.
 
-What's another factor? *Self-control*. People only have a certain amount of self-control in stock, and the more you use it, the less you have remaining. The article uses an example of trying to complete an article while trying to stay on a weight-loss diet. Each one of those requires a certain amount of self-control, meaning that trying to sustain both will reduce the amount of time that you can have both of them in effect.
+What's another factor? **Self-control**. People only have a certain amount of self-control in stock, and the more you use it, the less you have remaining. The article uses an example of trying to complete an article while trying to stay on a weight-loss diet. Each one of those requires a certain amount of self-control, meaning that trying to sustain both will reduce the amount of time that you can have both of them in effect.
 
-What's the solution? *Rest.*
+What's the solution? **Rest.**
 
 ## Reminders
 
 The article goes into detail about all the different things that we can do to try to beat resistance, so here's a checklist to summarize that.
 
-- *Scripting.* Take the time before starting any task to break down step-by-step what you need to do. By writing in detail the steps it takes to complete the task, there's a clear direction at any point in the task.
-- *Using Inertia.* The momentum that's built behind getting things started and completed means a lot more than working on huge tasks at once. Start off with small things, such as brushing your teeth, and slowly build up on the number of things you've completed to build inertia.
-- *Rest.* The harder the task that you have to handle, the more your brain exhausts. Try to rest up every 40 minutes or so.
-- *Reduce the Self-Control Necessary.* If you're tempted to go check Facebook for a while, then do it. Don't increase the amount of things you need to force self-control on, because then it'll reduce it from the other things you need to do.
-- *Using Tools Fluently.* Often the tools we possess (software applications) have a lot of features built in. Giving yourself time to learn how to use these efficiently will reduce the amount of time it takes to perform tasks, therefore reducing exhaustion and self-control.
-- *Finding Inspiration.* Inspiration helps with keeping yourself inline and motivated. You could even use yourself as motivation by looking back at your past achievements.
-- *Trigger Times.* Events, such as waking up for work, are trigger times that **forces** us to do what we need to do. Set up trigger times by telling people your deadlines, or setting hard deadlines for projects with responsibilities.
-- *Stopping the Bully Brain.* Start off by doing something that isn't work related, so that you can build up momentum by your brain already working and engaging, therefore counteracting against resistance.
+- **Scripting.** Take the time before starting any task to break down step-by-step what you need to do. By writing in detail the steps it takes to complete the task, there's a clear direction at any point in the task.
+- **Using Inertia.** The momentum that's built behind getting things started and completed means a lot more than working on huge tasks at once. Start off with small things, such as brushing your teeth, and slowly build up on the number of things you've completed to build inertia.
+- **Rest.** The harder the task that you have to handle, the more your brain exhausts. Try to rest up every 40 minutes or so.
+- **Reduce the Self-Control Necessary.** If you're tempted to go check Facebook for a while, then do it. Don't increase the amount of things you need to force self-control on, because then it'll reduce it from the other things you need to do.
+- **Using Tools Fluently.** Often the tools we possess (software applications) have a lot of features built in. Giving yourself time to learn how to use these efficiently will reduce the amount of time it takes to perform tasks, therefore reducing exhaustion and self-control.
+- **Finding Inspiration.** Inspiration helps with keeping yourself inline and motivated. You could even use yourself as motivation by looking back at your past achievements.
+- **Trigger Times.** Events, such as waking up for work, are trigger times that *forces* us to do what we need to do. Set up trigger times by telling people your deadlines, or setting hard deadlines for projects with responsibilities.
+- **Stopping the Bully Brain.** Start off by doing something that isn't work related, so that you can build up momentum by your brain already working and engaging, therefore counteracting against resistance.
 
 ## Resources
 
